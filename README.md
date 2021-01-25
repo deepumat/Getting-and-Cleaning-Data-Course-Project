@@ -1,7 +1,9 @@
 # Getting-and-Cleaning-Data-Course-Project
-Coursera Assignment
+Coursera Assignment:
 
-The Cookbook.md explains the data and the transformations done.
+
+
+The Cookbook.md explains the data and the transformations done!
 
 The run_Analysis.R is code for the project
 
